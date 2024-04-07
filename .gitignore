@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the yolov5s.pt and yolov9s.pt files
+yolov5s.pt
+yolov8s.pt
+
+# Ignore any generated files or directories
+__pycache__
+
+vidp
